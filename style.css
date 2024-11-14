@@ -57,25 +57,25 @@ body {
 
 #igual {
     grid-row: span 2;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
 
 #igual:hover {
-    background-color: rgb(199, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
 
 #Cancelar {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
 
 #Cancelar:hover {
-    background-color: rgb(199, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
 
 #borrar {
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
 
 #borrar:hover {
-    background-color: rgb(199, 0, 0);
+    background-color: rgb(17, 0, 255);
 }
